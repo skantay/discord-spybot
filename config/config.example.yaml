@@ -1,0 +1,4 @@
+discord:
+  token: <token>
+s3:
+  token: <token>
