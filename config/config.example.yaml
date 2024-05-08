@@ -1,4 +1,6 @@
 discord:
-  token: <token>
+  token: <secret>
 s3:
-  token: <token>
+  accessKey: <secret>
+  secretKey: <secret>
+  region: <not-secret>
